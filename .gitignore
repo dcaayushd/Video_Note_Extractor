@@ -1,0 +1,13 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+backend/data/jobs/
+backend/data/uploads/
+backend/data/chroma/
+frontend_flutter/.dart_tool/
+frontend_flutter/build/
+frontend_flutter/.idea/
+frontend_flutter/.flutter-plugins
+frontend_flutter/.flutter-plugins-dependencies
